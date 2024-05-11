@@ -4,6 +4,8 @@
 <h3 align="left">
 1. Scrape the EUR/INR currency data from Yahoo Finance, covering the period from January 1, 2023, to February 16, 2024.
 </br>
+
+  
 2. Conduct a technical analysis and calculate the following metrics for one day and one week from February 16, 2024
 </h3>  
 <h4 align="left">- Moving Average </h4> 
