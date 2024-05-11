@@ -5,16 +5,11 @@
 1. Scrape the EUR/INR currency data from Yahoo Finance, covering the period from January 1, 2023, to February 16, 2024.
 </br>
 2. Conduct a technical analysis and calculate the following metrics for one day and one week from February 16, 2024
-<h4 align="center" style="color:blue; font-weight:bold;"> Moving Average </h4> </br>
-![image](sma_ema_plot.png)
+<h4 align="center" style="color:blue; font-weight:bold;"> Moving Average </h4> ![image](sma_ema_plot.png)
 
-<h4 align="center" style="color:blue; font-weight:bold;"> Bollinger Band </h4>
-</br>
-![image](/bollinger_bands_plot.png)
+<h4 align="center" style="color:blue; font-weight:bold;"> Bollinger Band </h4> ![image](/bollinger_bands_plot.png)
 
-<h4 align="center" style="color:blue; font-weight:bold;"> CCI (Commodity Channel Index)</h4>
-</br>
-![image](/cci_plot.png)
+<h4 align="center" style="color:blue; font-weight:bold;"> CCI (Commodity Channel Index)</h4> ![image](/cci_plot.png)
 
 </br>
 3. Based on the results of the technical indicators, make a decision to BUY, SELL or remain NEUTRAL? for the specified time frames.
