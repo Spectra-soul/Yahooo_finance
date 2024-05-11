@@ -9,12 +9,12 @@
 
 ![image](sma_ema_plot.png)
 
-![image](/sma_ema_plot.png)
-
 <h4 align="center" style="color:blue; font-weight:bold;"> Bollinger Band </h4>
+</br>
 ![image](/bollinger_bands_plot.png)
 
 <h4 align="center" style="color:blue; font-weight:bold;"> CCI (Commodity Channel Index)</h4>
+</br>
 ![image](/cci_plot.png)
 
 </br>
