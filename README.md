@@ -1,5 +1,5 @@
 <h1><center>Yahoo Finance</center></h1>
-<p>Objective: Analyse the trend of EUR/INR for the upcoming day and week using technical indicators</p>
+<h3>Objective: Analyse the trend of EUR/INR for the upcoming day and week using technical indicators</h3>
 1. Scrape the EUR/INR currency data from Yahoo Finance, covering the period from January 1, 2023, to February 16, 2024.
 2. Conduct a technical analysis and calculate the following metrics for one day and one week from February 16, 2024
 - Moving Average
