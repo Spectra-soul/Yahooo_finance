@@ -15,7 +15,7 @@
 ![image](/bollinger_bands_plot.png)
 
 
-<h4 align="left"> CCI (Commodity Channel Index)</h4> 
+<h4 align="left">- CCI (Commodity Channel Index)</h4> 
 
 ![image](/cci_plot.png)
 
