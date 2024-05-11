@@ -6,7 +6,9 @@
 </br>
 2. Conduct a technical analysis and calculate the following metrics for one day and one week from February 16, 2024
 <h4 align="center" style="color:blue; font-weight:bold;"> Moving Average </h4>
+
 ![image](sma_ema_plot.png)
+
 ![image](/sma_ema_plot.png)
 
 <h4 align="center" style="color:blue; font-weight:bold;"> Bollinger Band </h4>
